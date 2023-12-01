@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm SARAVANAN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saravanan532" alt="saravanan532" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@saravan82128694" target="blank"><img src="https://img.shields.io/twitter/follow/@saravan82128694?logo=twitter&style=for-the-badge" alt="saravan82128694" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@saravan82128694" target="blank"><img src="https://img.shields.io/twitter/follow/saravan82128694?logo=twitter&style=for-the-badge" alt="saravan82128694" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE0NTEzMDQsIm5iZiI6MTcwMTQ1MTAwNCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjAxVDE3MTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY1YmYwNzA1MGYyZDFmNTVhOGYxOTk1OTYyNGQ3ZDRlZGY1MGVjMzY4N2MyYmJhNmQyMzFhNmM4OGUwNjNhMDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.19I4qCvO1fjkaqXQFFIC9NhO_ut_ynRm5q-m20GWB3s">
 
@@ -24,10 +24,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@saravan82128694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@saravan82128694" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saravanan d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saravanan d" height="30" width="40" /></a>
-<a href="https://instagram.com/_shravan.__11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shravan.__11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saravanan532" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saravanan532" height="30" width="40" /></a>
+<a href="https://twitter.com/@saravan82128694" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="@saravan82128694" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saravanan d" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="saravanan d" height="30" width="30" /></a>
+<a href="https://instagram.com/_shravan.__11" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="_shravan.__11" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/saravanan532" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="saravanan532" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
