@@ -1,15 +1,16 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+[![Black-Simple-Elegant-Personal-Linked-In-Banner.png](https://i.postimg.cc/3JncwKgp/Black-Simple-Elegant-Personal-Linked-In-Banner.png)](https://postimg.cc/pp5ZGMcX)
 <h1 align="center">Hi 👋, I'm SARAVANAN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saravanan532&label=Profile%20views&color=0e75b6&style=flat" alt="saravanan532" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saravanan532" alt="saravanan532" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@saravan82128694" target="blank"><img src="https://img.shields.io/twitter/follow/@saravan82128694?logo=twitter&style=for-the-badge" alt="@saravan82128694" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@saravan82128694" target="blank"><img src="https://img.shields.io/twitter/follow/@saravan82128694?logo=twitter&style=for-the-badge" alt="saravan82128694" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE0NTEzMDQsIm5iZiI6MTcwMTQ1MTAwNCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjAxVDE3MTY0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY1YmYwNzA1MGYyZDFmNTVhOGYxOTk1OTYyNGQ3ZDRlZGY1MGVjMzY4N2MyYmJhNmQyMzFhNmM4OGUwNjNhMDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.19I4qCvO1fjkaqXQFFIC9NhO_ut_ynRm5q-m20GWB3s">
 - 🔭 I’m currently working on **App Development**
 
 - 🌱 I’m currently learning **CSS Frameworks and MERN**
